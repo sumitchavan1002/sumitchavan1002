@@ -1,6 +1,16 @@
-# Hey 🖐, I'm Sumit Kumar
-Third Year Computer Science undergrad from Sinhgad College Of Engineering - (2023), with deep interests in Data Structures and Algorithms.
-I have good Problem Solving Skills and love to code.
+<h1 align="center">Hi 👋, I'm SUMIT KUMAR</h1>
+<h3 align="center">Final Year Computer Science undergrad from Sinhgad College Of Engineering - (2023)</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sumit-kumar-28065019a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-kumar-28065019a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sumit_1002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit_1002" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sumitchavan1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumitchavan1002" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sumitchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumitchavan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_serendipity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_serendipity" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sumit2170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sumit2170" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<sumitchavan1002>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<sumitchavan1002>/profile" height="30" width="40" /></a>
+</p>
 
-## I'm a Competitive Programmer.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
